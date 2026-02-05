@@ -28,3 +28,13 @@
     - Sprint review
         - Product owner and other stakeholders respond and evaluate work
         - Add work from review to backlog and potentially include in next sprint
+
+4) Epic vs Story vs Bug vs Task 
+    - Epic:
+        - Topic/Overriding goal
+    - Story:
+        - Bigger project, with to-dos
+    - Task: 
+        - Specific task which should take more than 1 working Daily
+    - Bug:
+        - Issues that impede progress or functionality of work
