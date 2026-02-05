@@ -17,3 +17,14 @@
         - Create and communicate product backlog items
         - Ordering product backlog items
         - Ensure product backlog is transparent, visible, understood
+
+3) 3 types of meetings that happen during a sprint cycle:
+    - Sprint planning
+        - Establish what your Scrum team wants to accomplish in the sprint
+        - Plan the sprint, assign tasks, set deadlines
+    - Daily standup meeting
+        - Each member should answer: what did I accomplish yesterday? What will I accomplish today?
+        - Should be a quick everyday meeting where everyone speaks
+    - Sprint review
+        - Product owner and other stakeholders respond and evaluate work
+        - Add work from review to backlog and potentially include in next sprint
