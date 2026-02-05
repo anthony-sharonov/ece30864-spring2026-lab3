@@ -5,3 +5,15 @@
     - Cons:
         - Lack of documentation: Documentation becomes less of a priority than the constant planning/progress. Responsibilities like billing and record keeping become slowly done.
         - Goal focus shifting: Focus shifts constantly depending on which parts of the project require more attention. This means everyone is not focused on a single goal but rather what needs to be done first.
+
+2) Role/Responsibility of Scrum Master vs Product Owner
+    - Scrum Master:
+        - Facilitate and Coach who ensures the Scrum is followed and helps improve workflows
+        - Guiding ceremonies, fostering collaboration, and supporting communication
+        - Create scrum events, seek ways to enchance performance and agility
+
+    - Product Owner:
+        - Develop and communicate product goal
+        - Create and communicate product backlog items
+        - Ordering product backlog items
+        - Ensure product backlog is transparent, visible, understood
